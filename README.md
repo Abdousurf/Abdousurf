@@ -1,27 +1,26 @@
-# 👋 Salut, je suis Abdou JOHN!
+# Abdou JOHN — Consultant Data | Actuariat & Analytics Engineering
 
-## 📊 Mes Statistiques GitHub
+> 10 ans d'expérience en assurance · Data Engineer · Data Scientist · Analytics Engineer
 
-<!-- Remplacez 'votre-username' par votre vrai nom d'utilisateur GitHub ! -->
+---
 
-![Vos Stats](https://github-readme-stats.vercel.app/api?username=Abdousurf&show_icons=true&theme=radical)
+## Projets Portfolio
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdousurf&layout=compact&theme=radical)
+### 🏗️ [Insurance Analytics Pipeline](https://github.com/Abdousurf/insurance-analytics-pipeline)
+Pipeline end-to-end sur données sinistres P&C — Modern Data Stack appliqué à l'actuariat non-vie.
+`dbt` `Airflow` `DuckDB` `Streamlit` `Open Data ONISR`
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdousurf&theme=radical)
+### 🤖 [Insurance Churn ML](https://github.com/Abdousurf/insurance-churn-ml)
+Modèle de churn production-ready avec explainabilité actuarielle et API REST.
+`XGBoost` `MLflow` `FastAPI` `SHAP` `Optuna`
 
+### 📈 [Mortality & Longevity Analysis](https://github.com/Abdousurf/mortality-longevity-analysis)
+Modèle de Lee-Carter + stress tests Solvabilité II sur le risque de longévité.
+`Python` `Statsmodels` `INSEE/HMD` `Solvency II`
 
-<!--
-**Abdousurf/Abdousurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdousurf&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdousurf&layout=compact&theme=radical&hide_border=true)
