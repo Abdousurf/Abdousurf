@@ -88,7 +88,7 @@ Currently working at **[HaskeData](https://haskedata.fr)**, I help insurance com
 
 - **Website:** [haskedata.fr](https://haskedata.fr)
 - **LinkedIn:** [Abdou JOHN](https://www.linkedin.com/in/abdou-john/)
-- **Email:** aomugiwara@gmail.com
+- **Email:** abdou.john@haskedata.fr
 - **Location:** Paris, France
 
 ---
